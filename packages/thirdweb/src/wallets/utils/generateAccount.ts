@@ -20,9 +20,7 @@ export type GenerateAccountOptions = {
  * ```
  * @walletUtils
  */
-export async function generateAccount(
-  options: GenerateAccountOptions,
-): Promise<Account> {
+export function generateAccount(options: GenerateAccountOptions): Account {
   const privateKey = toHex(secp256k1.utils.randomPrivateKey());
   return privateKeyAccount({ privateKey, client: options.client });
 }

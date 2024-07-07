@@ -21,12 +21,6 @@ export default {
       "name": "EIP155"
     }
   ],
-  "icon": {
-    "url": "ipfs://QmQuvmiN6vM6Rqzqe1pMzDf8iZXqTtSeqCgGe5k5AyksDU",
-    "width": 200,
-    "height": 200,
-    "format": "png"
-  },
   "infoURL": "https://raptorchain.io",
   "name": "RaptorChain",
   "nativeCurrency": {

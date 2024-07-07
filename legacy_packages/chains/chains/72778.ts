@@ -10,12 +10,6 @@ export default {
     }
   ],
   "faucets": [],
-  "icon": {
-    "url": "ipfs://Qmeiop9gSdzU4NNJ6GCuPk6AeYwD9pbhEFVfRdk4dXs3kJ",
-    "width": 640,
-    "height": 640,
-    "format": "png"
-  },
   "infoURL": "https://www.cagacrypto.com/",
   "name": "CAGA crypto Ankara testnet",
   "nativeCurrency": {

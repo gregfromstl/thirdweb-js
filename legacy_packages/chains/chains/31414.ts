@@ -12,12 +12,6 @@ export default {
   "faucets": [
     "https://faucet.evokescan.org"
   ],
-  "icon": {
-    "url": "ipfs://bafkreia5q26knsvxgkwxze7woepvsqat5n2hodokh4ozzphmhexqez5s34",
-    "width": 100,
-    "height": 100,
-    "format": "png"
-  },
   "infoURL": "https://testnet-explorer.evokescan.org",
   "name": "Evoke Testnet",
   "nativeCurrency": {

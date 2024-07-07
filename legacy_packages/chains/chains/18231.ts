@@ -6,22 +6,10 @@ export default {
     {
       "name": "blockscout",
       "url": "https://unreal.blockscout.com",
-      "standard": "EIP3091",
-      "icon": {
-        "url": "ipfs://QmZbtoK9Q1DHTHjsgPUfHkzb9xdWzrSfPwPQ8M8FPu84mA",
-        "width": 300,
-        "height": 301,
-        "format": "png"
-      }
+      "standard": "EIP3091"
     }
   ],
   "faucets": [],
-  "icon": {
-    "url": "ipfs://QmZbtoK9Q1DHTHjsgPUfHkzb9xdWzrSfPwPQ8M8FPu84mA",
-    "width": 300,
-    "height": 301,
-    "format": "png"
-  },
   "infoURL": "https://raas.gelato.network/rollups/details/public/unreal",
   "name": "unreal-old",
   "nativeCurrency": {

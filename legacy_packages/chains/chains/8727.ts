@@ -10,12 +10,6 @@ export default {
     }
   ],
   "faucets": [],
-  "icon": {
-    "url": "ipfs://QmfN9r1S7FvzkbjqfNMdUikhHmCw5e6UqsTuRD51S8T6Cq",
-    "width": 512,
-    "height": 512,
-    "format": "png"
-  },
   "infoURL": "https://storagechain.io/about-us",
   "name": "Storagechain Testnet",
   "nativeCurrency": {
